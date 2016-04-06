@@ -1,0 +1,57 @@
+---
+title       : I Want To Go To Bed
+subtitle    : Now
+author      : Roman Kierzkowski
+job         : Data Scientis
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+## Plan fot the Project
+
+1. Create project
+2. Add basic slides
+3. Slidify project
+4. Deploy to Github
+5. Submit
+6. Go to bed
+
+--- .class #id 
+
+## How to Get There Quick?
+
+* Meeting all formal requirements.
+* Putting as little effort as possible.
+* Admitting it to your fellow course mates and counting on their forbearance.
+
+--- .class #id 
+
+## And now some evaluated code!
+
+```{r}
+plot(rnorm(100), rnorm(100))
+```
+
+--- .class #id 
+
+## Thank you!
+
+* Thank you for checking my project!
+* Hope you enjoy it!
+* Please, be forgiving.
+* Now, I am going to bed!
+
+--- .class #id 
+
+
+
+
+
+
+
+
+
